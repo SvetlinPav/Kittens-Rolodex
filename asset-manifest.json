@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Kittens-Rolodex/static/css/main.c8f88333.chunk.css",
-    "main.js": "/Kittens-Rolodex/static/js/main.1f776aa5.chunk.js",
-    "main.js.map": "/Kittens-Rolodex/static/js/main.1f776aa5.chunk.js.map",
+    "main.css": "/Kittens-Rolodex/static/css/main.eec85c3e.chunk.css",
+    "main.js": "/Kittens-Rolodex/static/js/main.eac7c111.chunk.js",
+    "main.js.map": "/Kittens-Rolodex/static/js/main.eac7c111.chunk.js.map",
     "runtime-main.js": "/Kittens-Rolodex/static/js/runtime-main.b6d0cb7b.js",
     "runtime-main.js.map": "/Kittens-Rolodex/static/js/runtime-main.b6d0cb7b.js.map",
     "static/js/2.8302afc5.chunk.js": "/Kittens-Rolodex/static/js/2.8302afc5.chunk.js",
     "static/js/2.8302afc5.chunk.js.map": "/Kittens-Rolodex/static/js/2.8302afc5.chunk.js.map",
     "index.html": "/Kittens-Rolodex/index.html",
-    "precache-manifest.ac4441108daac0bf13914d3087fa5b1e.js": "/Kittens-Rolodex/precache-manifest.ac4441108daac0bf13914d3087fa5b1e.js",
+    "precache-manifest.f9555418c05f87d5990871ee9e8811f8.js": "/Kittens-Rolodex/precache-manifest.f9555418c05f87d5990871ee9e8811f8.js",
     "service-worker.js": "/Kittens-Rolodex/service-worker.js",
-    "static/css/main.c8f88333.chunk.css.map": "/Kittens-Rolodex/static/css/main.c8f88333.chunk.css.map",
+    "static/css/main.eec85c3e.chunk.css.map": "/Kittens-Rolodex/static/css/main.eec85c3e.chunk.css.map",
     "static/js/2.8302afc5.chunk.js.LICENSE.txt": "/Kittens-Rolodex/static/js/2.8302afc5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b6d0cb7b.js",
     "static/js/2.8302afc5.chunk.js",
-    "static/css/main.c8f88333.chunk.css",
-    "static/js/main.1f776aa5.chunk.js"
+    "static/css/main.eec85c3e.chunk.css",
+    "static/js/main.eac7c111.chunk.js"
   ]
 }
