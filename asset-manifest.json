@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Kittens-Rolodex/static/css/main.c8f88333.chunk.css",
+    "main.js": "/Kittens-Rolodex/static/js/main.585bf58b.chunk.js",
+    "main.js.map": "/Kittens-Rolodex/static/js/main.585bf58b.chunk.js.map",
+    "runtime-main.js": "/Kittens-Rolodex/static/js/runtime-main.b6d0cb7b.js",
+    "runtime-main.js.map": "/Kittens-Rolodex/static/js/runtime-main.b6d0cb7b.js.map",
+    "static/js/2.8302afc5.chunk.js": "/Kittens-Rolodex/static/js/2.8302afc5.chunk.js",
+    "static/js/2.8302afc5.chunk.js.map": "/Kittens-Rolodex/static/js/2.8302afc5.chunk.js.map",
+    "index.html": "/Kittens-Rolodex/index.html",
+    "precache-manifest.0e032a68ad7323101984158489dee3ca.js": "/Kittens-Rolodex/precache-manifest.0e032a68ad7323101984158489dee3ca.js",
+    "service-worker.js": "/Kittens-Rolodex/service-worker.js",
+    "static/css/main.c8f88333.chunk.css.map": "/Kittens-Rolodex/static/css/main.c8f88333.chunk.css.map",
+    "static/js/2.8302afc5.chunk.js.LICENSE.txt": "/Kittens-Rolodex/static/js/2.8302afc5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6d0cb7b.js",
+    "static/js/2.8302afc5.chunk.js",
+    "static/css/main.c8f88333.chunk.css",
+    "static/js/main.585bf58b.chunk.js"
+  ]
+}
