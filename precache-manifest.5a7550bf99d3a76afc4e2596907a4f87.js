@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42d58f1d515c6ff653f6550cece2176e",
+    "revision": "9e377be9ad74255ac8e09679962ed3da",
     "url": "/Kittens-Rolodex/index.html"
   },
   {
-    "revision": "9812295a13c4d6a916fc",
-    "url": "/Kittens-Rolodex/static/css/main.eec85c3e.chunk.css"
+    "revision": "8fca00205f27b61a87d4",
+    "url": "/Kittens-Rolodex/static/css/main.673165ef.chunk.css"
   },
   {
     "revision": "f390e675dd2e08c1e237",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Kittens-Rolodex/static/js/2.8302afc5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9812295a13c4d6a916fc",
+    "revision": "8fca00205f27b61a87d4",
     "url": "/Kittens-Rolodex/static/js/main.eac7c111.chunk.js"
   },
   {
